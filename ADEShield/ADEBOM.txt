@@ -1,6 +1,7 @@
 BOM for ADE Arduino Mega Shield
 
 R1 - 33 ohm resistor (has only been tested with 1/2 watt 5%, but 1/4 watt will probably work)
+     The 1/2 watt resistor is too big for the footprint, so you have to bend the wires funky.
 R2 - RES 1K OHM 1/4W 5% AXIAL DigiKey Part: CF14JT1K00
 Q1 - TRANS PNP 40V 200MA TO92-3 DigiKey Part: 2N3906BU
 P1 - CONN HEADER VERT 3POS 2.54MM DigiKey Part: 61300311121
