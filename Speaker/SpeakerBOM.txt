@@ -1,0 +1,14 @@
+BOM for Speaker & Switch Demo Board
+
+For v1 & v2:
+R1, R2 - RES 3.3K OHM 1/4W 5% AXIAL DigiKey Part: CFR-25JB-52-3K3 
+R3 - RES 27 OHM 1/4W 5% AXIAL DigiKey Part: CF14JT27R0
+Q1 - TRANS PNP 40V TO-92 DigiKey Part: 2N3906 PBFREE
+SW1-SW7 - SWITCH SLIDE SPDT 200MA 30V DigiKey Part: EG1218
+J1 - 1x10 Standard Header Pins
+LS1 - Breadboard-Friendly PCB Mount Mini Speaker - 8 Ohm 0.2W Adafruit Product Number: 1898
+
+For v3 (in addition to the above):
+R4-R10 - RES 4.3K OHM 1/4W 5% AXIAL DigiKey Part: CFR-25JB-52-4K3
+J2 - 1x2 Standard Header Pins
+U1 - SN74LS175N
