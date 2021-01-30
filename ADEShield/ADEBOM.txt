@@ -1,0 +1,9 @@
+BOM for ADE Arduino Mega Shield
+
+R1 - 33 ohm resistor (has only been tested with 1/2 watt 5%, but 1/4 watt will probably work)
+R2 - RES 1K OHM 1/4W 5% AXIAL DigiKey Part: CF14JT1K00
+Q1 - TRANS PNP 40V 200MA TO92-3 DigiKey Part: 2N3906BU
+P1 - CONN HEADER VERT 3POS 2.54MM DigiKey Part: 61300311121
+P2 - CONN HEADER VERT 36POS 2.54MM DigiKey Part: 67996-236HLF
+J2 - CONN MOD JACK 6P6C R/A UNSHLD DigiKey Part: TM5RU1-66(50)
+DFR02229 - MICROSD CARD MODULE FOR ARDUINO DigiKey Part: DFR0229
