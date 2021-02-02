@@ -7,6 +7,7 @@
 ;* Hardware: v2 speaker board
 ;*           Stephen Cousins' SC103 Z80 PIO Module @ port 0x68
 ;*           Optional: Digital I/O module @ port 0x03 
+;*           RC2014 running at ~7Mhz
 ;*
 ;* Connections: J1 Pin 1 = PIO Pin PA0
 ;*              J1 Pin 2 - 8 = PIO Pins PA1-PA7

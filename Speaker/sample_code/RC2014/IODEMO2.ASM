@@ -7,6 +7,7 @@
 ;*           Digital I/O module @ port 0x03 
 :*                and/or Digital Input module @ port 0x00
 ;*           Digital Output module @ port 0x00
+;*           RC2014 running at ~7Mhz
 ;*
 ;* Connections: J1 Pin 1 = Digital Output Port 0 Pin 0
 ;*              J1 Pin 2 - 8 = Digital Input Port 0 Pins 0-6

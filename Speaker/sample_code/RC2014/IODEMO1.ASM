@@ -5,6 +5,7 @@
 ;* Hardware: v2 speaker board
 ;*           Digital I/O module @ port 0x03
 ;*           Digital Output module @ port 0x00
+;*           RC2014 running at ~7Mhz
 ;*
 ;* Connections: J1 Pin 1 = Digital Output Port 0 Pin 0
 ;*              J1 9 = GND
