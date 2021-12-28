@@ -1,0 +1,21 @@
+BOM for AIM 65 I/O Board
+
+C1 - 10 uF 50 Volt Radial Capacitor - Jameco Part: 29891
+C2 - 10 uF 50 Volt Radial Capacitor - Jameco Part: 29891
+C3 - 10 uF 50 Volt Radial Capacitor - Jameco Part: 29891
+J1 - CONN EDGE DUAL FMALE 44POS 0.156 - DigiKey Part: EDC305440-ND
+J2 - CONN HEADER VERT 3POS 2.54MM - DigiKey Part: 1849-1003-ND
+J3 - CONN HEADER VERT 8POS 2.54MM - DigiKey Part: 609-3362-ND
+J4 - CONN HEADER VERT 8POS 2.54MM - DigiKey Part: 609-3362-ND
+J5 - CONN RCPT FMALE DIN 6POS SOLDER - DigiKey Part: 9-211509-0-ND
+J6 - CONN HEADER VERT 8POS 2.54MM - DigiKey Part: 609-3362-ND
+J7 - CONN HEADER VERT 8POS 2.54MM - DigiKey Part: 609-3362-ND
+P1 - CONN JACK MONO 3.5MM R/A - DigiKey Part: CP-3502N-ND
+P2 - CONN D-SUB RCPT 9POS R/A SLDR - DigiKey Part: A32117-ND
+P3 - CONN JACK MONO 3.5MM R/A - DigiKey Part: CP-3502N-ND
+P4 - CONN JACK MONO 2.5MM R/A - DigiKey Part: CP-2508N-ND
+P5 - CONN JACK MONO 2.5MM R/A - DigiKey Part: CP-2508N-ND
+R1-R6 - Resistor Carbon Film 3.3k Ohm 1/4 Watt 5% - Jameco Part: 690988
+U1 - MCT2E OPTOCOUPLER - Old Stock from Ebay
+U2 - ICL7660 DIP-8 Super Voltage Converter - Old Stock on Ebay
+U3 - IC 7406 HEX INVERTER BUFFER/DRIVER - Jameco Part: 49091
